@@ -5,8 +5,8 @@ import audios from './audios.json';
 
 function App() {
   return (
-    <Container className="p-4">
-      <h1 className="text-3xl font-bold mb-8 text-center">Shruti: Text-to-Speech</h1>
+    <Container className="p-4 mb-8">
+      <h3 className="text-3xl font-bold mb-8 text-center">Shruti: Text-to-Speech Audio Samples</h3>
       <ListGroup variant="flush">
         {audios.audios.map((audio) => (
           <Card key={audio.id} className="mb-6">
