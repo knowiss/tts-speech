@@ -6,7 +6,7 @@
         "audioPhase1Url": "/audios/a1/a1.mp3",
         "audioPhase2Url": "/audios/text1-phase2.mp3",
         "audioPostProcessedUrl": "/audios/text1-postprocessed.mp3",
-        "text": "Text for Text 1"
+        "text": "कथाहरू पठाउनुहोस् र हामी यसलाई आवाज दिनेछौं"
       },
       {
         "id": 2,
@@ -14,9 +14,73 @@
         "audioPhase1Url": "/audios/text2-phase1.mp3",
         "audioPhase2Url": "/audios/text2-phase2.mp3",
         "audioPostProcessedUrl": "/audios/text2-postprocessed.mp3",
-        "text": "Text for Text 2"
-      }
-      
+        "text": "६६ जिल्लामा करिब १२ सय जनालाई डेंगी संक्रमण, १ को मृत्यु"
+      },
+      {
+        "id": 3,
+        "name": "Demo 3",
+        "audioPhase1Url": "/audios/text3-phase1.mp3",
+        "audioPhase2Url": "/audios/text3-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text3-postprocessed.mp3",
+        "text": "२०६० को एसएलसीपछि उनी मेडिकल क्षेत्रको पढाइमा जान चाहन्थे।"
+      },
+      {
+        "id": 4,
+        "name": "Demo 4",
+        "audioPhase1Url": "/audios/text4-phase1.mp3",
+        "audioPhase2Url": "/audios/text4-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text4-postprocessed.mp3",
+        "text": "सदरमुकामदेखि ५० किमि पश्चिमको हरिचौरमा उनी डेरा जमाएर बसेका छन् ।"
+      },
+      {
+        "id": 5,
+        "name": "Demo 5",
+        "audioPhase1Url": "/audios/text5-phase1.mp3",
+        "audioPhase2Url": "/audios/text5-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text5-postprocessed.mp3",
+        "text": "तर यो पुस्तकले भावी भावी लेखक वा कविका मनमा नेपाली भाषाप्रति प्रेम उत्पन्न गरायो"
+        
+      },
+      {
+        "id": 6,
+        "name": "Demo 6",
+        "audioPhase1Url": "/audios/text6-phase1.mp3",
+        "audioPhase2Url": "/audios/text6-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text6-postprocessed.mp3",
+        "text": "ठिक त्यसै बेला नजिकबाट बाघ कराएको आवाज आयो ।"
+      },
+      {
+        "id": 7,
+        "name": "Demo 7",
+        "audioPhase1Url": "/audios/text7-phase1.mp3",
+        "audioPhase2Url": "/audios/text7-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text7-postprocessed.mp3",
+        "text": "पराई घर पुगेकी छोरीलाई पतिले दिएको यातना र पीडाका कथालाई गीतको भिडियोमा समेटिएको छ ।"
+      },
+      {
+        "id": 8,
+        "name": "Demo 8",
+        "audioPhase1Url": "/audios/text7-phase1.mp3",
+        "audioPhase2Url": "/audios/text7-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text7-postprocessed.mp3",
+        "text": "बालुवाटारमा बाढीको खतरा बढ्दै गएको छ भन्ने बालुवाटारका निवासीहरुले भनेका छन्"
+      },
+      {
+        "id": 9,
+        "name": "Demo 9",
+        "audioPhase1Url": "/audios/text7-phase1.mp3",
+        "audioPhase2Url": "/audios/text7-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text7-postprocessed.mp3",
+        "text": "हराएको कुकुरको खोजीमा निस्किएकी १० वर्षीया बालिकाको कथा फिल्ममा समावेश छ ।"
+      },
+      {
+        "id": 10,
+        "name": "Demo 10",
+        "audioPhase1Url": "/audios/text7-phase1.mp3",
+        "audioPhase2Url": "/audios/text7-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text7-postprocessed.mp3",
+        "text": "सिलिगुडीमा आइतबार आयोजित एक समारोहवीच खतिवडाको काव्यकृति लोकार्पण भयो ।"
+      }  
     ]
   }
   

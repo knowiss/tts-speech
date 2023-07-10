@@ -11,7 +11,6 @@ function App() {
         {audios.audios.map((audio) => (
           <Card key={audio.id} className="mb-6">
             <Card.Body>
-              <Card.Title className="text-xl font-bold">{audio.name}</Card.Title>
               <div className="mb-4">
                 <audio controls className="w-full">
                   <source src={audio.audioPhase1Url} type="audio/mpeg" />
