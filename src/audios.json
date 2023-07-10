@@ -1,0 +1,22 @@
+{
+    "audios": [
+      {
+        "id": 1,
+        "name": "Demo 1",
+        "audioPhase1Url": "/audios/a1/a1.mp3",
+        "audioPhase2Url": "/audios/text1-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text1-postprocessed.mp3",
+        "text": "Text for Text 1"
+      },
+      {
+        "id": 2,
+        "name": "Demo 2",
+        "audioPhase1Url": "/audios/text2-phase1.mp3",
+        "audioPhase2Url": "/audios/text2-phase2.mp3",
+        "audioPostProcessedUrl": "/audios/text2-postprocessed.mp3",
+        "text": "Text for Text 2"
+      }
+      
+    ]
+  }
+  
